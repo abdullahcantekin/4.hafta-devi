@@ -1,0 +1,7 @@
+C:\Users\tekin\source\repos\Adres defteri\Adres defteri\bin\Debug\Adres defteri.exe.config
+C:\Users\tekin\source\repos\Adres defteri\Adres defteri\bin\Debug\Adres defteri.exe
+C:\Users\tekin\source\repos\Adres defteri\Adres defteri\bin\Debug\Adres defteri.pdb
+C:\Users\tekin\source\repos\Adres defteri\Adres defteri\obj\Debug\Adres defteri.csprojAssemblyReference.cache
+C:\Users\tekin\source\repos\Adres defteri\Adres defteri\obj\Debug\Adres defteri.csproj.CoreCompileInputs.cache
+C:\Users\tekin\source\repos\Adres defteri\Adres defteri\obj\Debug\Adres defteri.exe
+C:\Users\tekin\source\repos\Adres defteri\Adres defteri\obj\Debug\Adres defteri.pdb
